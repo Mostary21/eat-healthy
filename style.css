@@ -1,0 +1,38 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    color: #696969;
+}
+.colored-text{
+    color: #581845;
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(85deg, #BFCFFA, #235cf7);
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: #581845;
+    font-weight: 600;
+}
+/* .logo-section{
+    height: 2%;
+    width: 100%;
+} */
+a{
+    margin-top: 5%;
+}
+p{
+    text-align: justify;
+    color: #696969;
+}
+.half-width{
+    width: 50%;
+    padding: 1%;
+}
+h1{
+    font-size: 55px;
+}
+.flex-container{
+    display: flex;
+    margin: 5%;
+    /* margin-right: 5%; */
+}
