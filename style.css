@@ -13,16 +13,13 @@ body{
     color: #581845;
     font-weight: 600;
 }
-/* .logo-section{
-    height: 2%;
-    width: 100%;
-} */
-a{
-    margin-top: 5%;
+.button{
+    margin-top: 70px;
 }
 p{
     text-align: justify;
     color: #696969;
+    font-size: 20px;
 }
 .half-width{
     width: 50%;
@@ -31,8 +28,89 @@ p{
 h1{
     font-size: 55px;
 }
+h2{
+    font-size:40px;
+}
+h3{
+    font-size: 30px;
+}
 .flex-container{
     display: flex;
     margin: 5%;
-    /* margin-right: 5%; */
+}
+.about-section{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding: 80px 80px 0 80px;
+    margin: 0;
+}
+.about-me{
+    width: 500px;
+    padding-top: 50px;
+}
+.recepi-image{
+    width: 90%;
+    margin: 4%;
+    border-radius: 5%;
+}
+.recepi-items{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 6%;
+    width: 25%;
+    margin: 0 40px;
+    padding: 10px;
+}
+.recepi-info{
+    margin: 0 10px;
+}
+
+.head-align{
+    text-align: center;
+    margin: 0 50px;
+    padding: 0 30px;
+}
+.head-align h2{
+    padding-top: 30px;
+    margin-bottom: 5px;
+}
+.head-align p{
+    margin: 0 200px;
+    width: 800px;
+    align-items: center;
+}
+.customer-review{
+    background-image: url(images/shapes/Frame-58.jpg);
+    background-repeat: no-repeat;
+}
+.review-img{
+    height: 50%;
+    width: 40%;
+}
+.reviews{
+    margin: 20px;
+    padding: 40px;
+}
+.border{
+    border-left: 4px solid #581845;
+}
+.book-img{
+    height: 80%;
+    width: 80%;
+    margin-left: 20px;
+    border-radius: 5%;
+}
+.item-center{
+    align-items: center;
+}
+footer h2{
+    text-align: center;
+    color: #ffffff;
+}
+footer p{
+    text-align: center;
+}
+footer{
+    background-color: #0B0D17;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
