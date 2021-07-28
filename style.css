@@ -111,6 +111,6 @@ footer p{
 }
 footer{
     background-color: #0B0D17;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 30px;
+    margin: 0;
 }
